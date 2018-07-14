@@ -1,0 +1,64 @@
+$themeColor: #1b90fa;
+
+body {
+  width: 460px;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.app {
+  background: #fff;
+  padding: 20px 20px;
+
+  a, a:visited {
+    font-weight: bold;
+    color: $themeColor;
+  }
+
+  .logo {
+    position: absolute;
+    top: 21px;
+    right: 26px;
+    width: 32px;
+  }
+
+  .form-group {
+    padding: 8px 0;
+
+    label {
+      text-align: right;
+      width: 150px;
+      display: inline-block;
+    }
+    .item {
+      margin-left: 15px;
+      display: inline-block;
+    }
+  }
+
+  h1 {
+    font-size: 18px;
+    margin: 0 0 20px;
+    padding: 0;
+  }
+
+  h2 {
+    font-size: 15px;
+    margin: 15px 0 8px;
+    padding: 0 0 3px;
+    color: #737373;
+    border-bottom: 1px solid #aaaaaa;
+  }
+
+  .copyright {
+    font-size: 12px;
+    margin-top: 24px;
+    text-align: center;
+  }
+
+  .copyright a {
+    text-decoration: none;
+  }
+
+}

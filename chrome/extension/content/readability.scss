@@ -1,0 +1,40 @@
+.ste-readability {
+  .Markdown {
+    font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Source Serif Pro', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 17px;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: .4px
+  }
+
+  .Markdown p {
+    font-size: 17px;
+    line-height: 1.95;
+  }
+
+  .Comment .Markdown.MarkdownViewer--small {
+    font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Source Serif Pro', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 16px;
+  }
+
+  .Comment .Markdown p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .Markdown h1,
+  .Markdown h2,
+  .Markdown h3,
+  .Markdown h4,
+  .Markdown h5,
+  .Markdown h6,
+  .ReplyEditor__body.rte h1,
+  .ReplyEditor__body.rte h2,
+  .ReplyEditor__body.rte h3,
+  .ReplyEditor__body.rte h4,
+  .ReplyEditor__body.rte h5,
+  .ReplyEditor__body.rte h6 {
+    font-family: sans-serif;
+  }
+}

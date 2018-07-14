@@ -1,0 +1,52 @@
+.LayoutEnhancer {
+
+  float: left;
+
+  .ant-btn.template {
+    margin: 4px 0;
+    text-transform: none;
+  }
+
+}
+
+// this css is popover's context
+.items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  .item {
+    display: inline-block;
+    padding: 0;
+    cursor: pointer;
+  }
+}
+
+.layoutTemplate {
+
+  .item {
+    width: 110px;
+    margin: 15px 5px 5px;
+    text-align: center;
+
+    p {
+      margin: 5px 0;
+    }
+  }
+}
+
+.lineTemplate {
+  .item {
+    display: block;
+    margin: 15px 5px;
+    text-align: left;
+  }
+}
+
+.quotationTemplate {
+
+  .item {
+    width: 110px;
+    margin: 15px 5px;
+  }
+}
