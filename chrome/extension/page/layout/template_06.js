@@ -14,8 +14,8 @@ https://cdn.steemitimages.com/DQmUgbfHXWonFbFHYpjEejDkC1pfjvgkLXSKhCDddbRwY6X/bo
 <br>
 
 <center>https://cdn.steemitimages.com/400x0/https://cdn.steemitimages.com/DQmUScNJSMXBLyHum3oCogqKZGsvSJ2WzobgnVmsQej3iQ8/border.png 
-Quatation Sentence Quatation Sentence
-Quatation Sentence Quatation Sentence
+Quotation Sentence Quotation Sentence
+Quotation Sentence Quotation Sentence
 https://cdn.steemitimages.com/400x0/https://cdn.steemitimages.com/DQmUScNJSMXBLyHum3oCogqKZGsvSJ2WzobgnVmsQej3iQ8/border.png </center>
 
 <br>
@@ -35,7 +35,7 @@ https://cdn.steemitimages.com/DQmRe8vXZJBabSQ6UPbtZjrFEp89hV9Go2SP5cF5PduXoCi/bo
 
 <br>
 >https://cdn.steemitimages.com/DQmZEUJPaRc9RQZfqgPPR7gnABp618YHpcJ7QLY3AW6ynjf/comma_3.png
-<h3>&nbsp;QUATATION</h3>https://cdn.steemitimages.com/DQmRe8vXZJBabSQ6UPbtZjrFEp89hV9Go2SP5cF5PduXoCi/border_long.png
+<h3>&nbsp;QUOTATION</h3>https://cdn.steemitimages.com/DQmRe8vXZJBabSQ6UPbtZjrFEp89hV9Go2SP5cF5PduXoCi/border_long.png
 >&nbsp;Text area Text area  Text area  Text area  Text area  Text areahttps://cdn.steemitimages.com/DQmRe8vXZJBabSQ6UPbtZjrFEp89hV9Go2SP5cF5PduXoCi/border_long.png
 >&nbsp;Text area Text area  Text area  Text area  Text area  Text areahttps://cdn.steemitimages.com/DQmRe8vXZJBabSQ6UPbtZjrFEp89hV9Go2SP5cF5PduXoCi/border_long.png
 >&nbsp;Text area Text area  Text area  Text area  Text area  Text areahttps://cdn.steemitimages.com/DQmRe8vXZJBabSQ6UPbtZjrFEp89hV9Go2SP5cF5PduXoCi/border_long.png
